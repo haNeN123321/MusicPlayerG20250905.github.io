@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* DIVs: 2d Rectangles
 */
 //
@@ -18,3 +19,6 @@ float playX3 = imageX + imageWidth * 1/4;
 float playY3 = imageY + imageHeight * 3/4;
 //
 tirangle(playX1, playY1, playX2, playY2, playX3, playY3);
+=======
+
+>>>>>>> 990c036bdd2b1f885fff00082f68e92fe89eb21b
